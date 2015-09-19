@@ -55,4 +55,4 @@ Each event must manage if there is going to or not have a coffee break.
 - [JS4Girls Curitiba - Facebook Page](https://www.facebook.com/JS4Girls.Curitiba)
 - [JS4Girls Ponta Grossa - Facebook Page](https://www.facebook.com/JS4Girls.PontaGrossa)
 - [JS4Girls São Luís - Facebook Page](https://www.facebook.com/JS4GirlsSaoLuis)
-
+- [JS4Girls Natal - Facebook Page](https://www.facebook.com/JS4GirlsNatal-51603752188440)
